@@ -1,0 +1,24 @@
+<map id="include/mlir&#45;c/Registration.h" name="include/mlir&#45;c/Registration.h">
+<area shape="rect" id="node2" href="$CAPI_2Registration_8h.html" title="include/mlir/CAPI/Registration.h" alt="" coords="1012,87,1239,114"/>
+<area shape="rect" id="node11" href="$c_2Dialect_2Async_8h.html" title="include/mlir&#45;c/Dialect\l/Async.h" alt="" coords="363,80,523,121"/>
+<area shape="rect" id="node13" href="$GPU_8h.html" title="include/mlir&#45;c/Dialect\l/GPU.h" alt="" coords="573,80,733,121"/>
+<area shape="rect" id="node15" href="$Linalg_8h.html" title="include/mlir&#45;c/Dialect\l/Linalg.h" alt="" coords="1863,80,2023,121"/>
+<area shape="rect" id="node18" href="$c_2Dialect_2SCF_8h.html" title="include/mlir&#45;c/Dialect\l/SCF.h" alt="" coords="803,80,963,121"/>
+<area shape="rect" id="node19" href="$c_2Dialect_2Shape_8h.html" title="include/mlir&#45;c/Dialect\l/Shape.h" alt="" coords="1263,80,1423,121"/>
+<area shape="rect" id="node20" href="$Standard_8h.html" title="include/mlir&#45;c/Dialect\l/Standard.h" alt="" coords="1447,80,1607,121"/>
+<area shape="rect" id="node21" href="$c_2Dialect_2Tensor_8h.html" title="include/mlir&#45;c/Dialect\l/Tensor.h" alt="" coords="1652,80,1812,121"/>
+<area shape="rect" id="node22" href="$IRCore_8cpp.html" title="lib/Bindings/Python\l/IRCore.cpp" alt="" coords="2047,80,2193,121"/>
+<area shape="rect" id="node23" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="2217,80,2372,121"/>
+<area shape="rect" id="node3" href="$CAPI_2Dialect_2Async_8cpp.html" title="lib/CAPI/Dialect/Async.cpp" alt="" coords="347,177,539,203"/>
+<area shape="rect" id="node4" href="$GPU_8cpp.html" title="lib/CAPI/Dialect/GPU.cpp" alt="" coords="563,177,744,203"/>
+<area shape="rect" id="node5" href="$Linalg_8cpp.html" title="lib/CAPI/Dialect/Linalg.cpp" alt="" coords="1875,177,2067,203"/>
+<area shape="rect" id="node6" href="$CAPI_2Dialect_2SCF_8cpp.html" title="lib/CAPI/Dialect/SCF.cpp" alt="" coords="769,177,943,203"/>
+<area shape="rect" id="node7" href="$CAPI_2Dialect_2Shape_8cpp.html" title="lib/CAPI/Dialect/Shape.cpp" alt="" coords="1203,177,1397,203"/>
+<area shape="rect" id="node8" href="$Standard_8cpp.html" title="lib/CAPI/Dialect/Standard.cpp" alt="" coords="1421,177,1632,203"/>
+<area shape="rect" id="node9" href="$Tensor_8cpp.html" title="lib/CAPI/Dialect/Tensor.cpp" alt="" coords="1656,177,1851,203"/>
+<area shape="rect" id="node10" href="$DialectHandle_8cpp.html" title="lib/CAPI/IR/DialectHandle.cpp" alt="" coords="967,177,1179,203"/>
+<area shape="rect" id="node12" href="$Bindings_2Python_2AsyncPasses_8cpp.html" title="lib/Bindings/Python\l/AsyncPasses.cpp" alt="" coords="5,169,152,211"/>
+<area shape="rect" id="node14" href="$Bindings_2Python_2GPUPasses_8cpp.html" title="lib/Bindings/Python\l/GPUPasses.cpp" alt="" coords="176,169,323,211"/>
+<area shape="rect" id="node16" href="$DialectLinalg_8cpp.html" title="lib/Bindings/Python\l/DialectLinalg.cpp" alt="" coords="2091,169,2237,211"/>
+<area shape="rect" id="node17" href="$Bindings_2Python_2LinalgPasses_8cpp.html" title="lib/Bindings/Python\l/LinalgPasses.cpp" alt="" coords="2261,169,2408,211"/>
+</map>

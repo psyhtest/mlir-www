@@ -1,0 +1,27 @@
+<map id="include/mlir/Dialect/Affine/EDSC/Intrinsics.h" name="include/mlir/Dialect/Affine/EDSC/Intrinsics.h">
+<area shape="rect" id="node2" href="$Dialect_2Linalg_2Utils_2Utils_8h.html" title="include/mlir/Dialect\l/Linalg/Utils/Utils.h" alt="" coords="2351,95,2501,136"/>
+<area shape="rect" id="node15" href="$Loops_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Loops.cpp" alt="" coords="5,273,172,315"/>
+<area shape="rect" id="node16" href="$Promotion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Promotion.cpp" alt="" coords="3341,273,3537,315"/>
+<area shape="rect" id="node18" href="$Tiling_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Tiling.cpp" alt="" coords="3562,273,3727,315"/>
+<area shape="rect" id="node22" href="$Dialect_2Linalg_2Utils_2Utils_8cpp.html" title="lib/Dialect/Linalg\l/Utils/Utils.cpp" alt="" coords="2926,184,3057,225"/>
+<area shape="rect" id="node23" href="$ProgressiveVectorToSCF_8cpp.html" title="lib/Conversion/VectorToSCF\l/ProgressiveVectorToSCF.cpp" alt="" coords="3183,95,3389,136"/>
+<area shape="rect" id="node24" href="$VectorToSCF_8cpp.html" title="lib/Conversion/VectorToSCF\l/VectorToSCF.cpp" alt="" coords="3413,95,3612,136"/>
+<area shape="rect" id="node25" href="$Dialect_2Linalg_2EDSC_2Builders_8cpp.html" title="lib/Dialect/Linalg\l/EDSC/Builders.cpp" alt="" coords="3636,95,3781,136"/>
+<area shape="rect" id="node26" href="$VectorTransforms_8cpp.html" title="lib/Dialect/Vector\l/VectorTransforms.cpp" alt="" coords="3805,95,3972,136"/>
+<area shape="rect" id="node3" href="$Dialect_2Linalg_2Transforms_2Transforms_8h.html" title="include/mlir/Dialect\l/Linalg/Transforms/Transforms.h" alt="" coords="1865,184,2094,225"/>
+<area shape="rect" id="node7" href="$Dialect_2Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="1886,273,2073,315"/>
+<area shape="rect" id="node8" href="$DropUnitDims_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/DropUnitDims.cpp" alt="" coords="2339,273,2561,315"/>
+<area shape="rect" id="node9" href="$ElementwiseToLinalg_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ElementwiseToLinalg.cpp" alt="" coords="3050,273,3317,315"/>
+<area shape="rect" id="node10" href="$Fusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Fusion.cpp" alt="" coords="197,273,367,315"/>
+<area shape="rect" id="node11" href="$FusionOnTensors_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/FusionOnTensors.cpp" alt="" coords="391,273,629,315"/>
+<area shape="rect" id="node14" href="$Interchange_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Interchange.cpp" alt="" coords="653,273,860,315"/>
+<area shape="rect" id="node17" href="$Sparsification_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Sparsification.cpp" alt="" coords="2097,273,2315,315"/>
+<area shape="rect" id="node19" href="$Dialect_2Linalg_2Transforms_2Transforms_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Transforms.cpp" alt="" coords="2585,273,2787,315"/>
+<area shape="rect" id="node20" href="$Vectorization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Vectorization.cpp" alt="" coords="2811,273,3025,315"/>
+<area shape="rect" id="node21" href="$LinalgToSPIRV_8cpp.html" title="lib/Conversion/LinalgToSPIRV\l/LinalgToSPIRV.cpp" alt="" coords="2692,184,2901,225"/>
+<area shape="rect" id="node4" href="$CodegenStrategy_8h.html" title="include/mlir/Dialect\l/Linalg/Transforms/CodegenStrategy.h" alt="" coords="1595,273,1862,315"/>
+<area shape="rect" id="node6" href="$LinalgToStandard_8cpp.html" title="lib/Conversion/LinalgToStandard\l/LinalgToStandard.cpp" alt="" coords="884,273,1115,315"/>
+<area shape="rect" id="node12" href="$Generalization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Generalization.cpp" alt="" coords="1139,273,1363,315"/>
+<area shape="rect" id="node13" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="1388,273,1571,315"/>
+<area shape="rect" id="node5" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="1609,363,1848,404"/>
+</map>

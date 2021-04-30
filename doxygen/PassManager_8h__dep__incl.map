@@ -1,0 +1,25 @@
+<map id="include/mlir/Pass/PassManager.h" name="include/mlir/Pass/PassManager.h">
+<area shape="rect" id="node2" href="$include_2mlir_2CAPI_2Pass_8h.html" title="include/mlir/CAPI/Pass.h" alt="" coords="641,87,819,114"/>
+<area shape="rect" id="node7" href="$CAPI_2IR_2Pass_8cpp.html" title="lib/CAPI/IR/Pass.cpp" alt="" coords="1121,177,1270,203"/>
+<area shape="rect" id="node9" href="$OptReductionPass_8h.html" title="include/mlir/Reducer\l/OptReductionPass.h" alt="" coords="1233,80,1387,121"/>
+<area shape="rect" id="node11" href="$TosaToLinalgPass_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgPass.cpp" alt="" coords="1412,80,1613,121"/>
+<area shape="rect" id="node12" href="$TosaToSCFPass_8cpp.html" title="lib/Conversion/TosaToSCF\l/TosaToSCFPass.cpp" alt="" coords="1638,80,1825,121"/>
+<area shape="rect" id="node13" href="$TosaToStandardPass_8cpp.html" title="lib/Conversion/TosaToStandard\l/TosaToStandardPass.cpp" alt="" coords="1849,80,2069,121"/>
+<area shape="rect" id="node14" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="2093,80,2332,121"/>
+<area shape="rect" id="node15" href="$lib_2Pass_2PassDetail_8h.html" title="lib/Pass/PassDetail.h" alt="" coords="2407,87,2562,114"/>
+<area shape="rect" id="node16" href="$IRPrinting_8cpp.html" title="lib/Pass/IRPrinting.cpp" alt="" coords="2159,177,2325,203"/>
+<area shape="rect" id="node18" href="$PassStatistics_8cpp.html" title="lib/Pass/PassStatistics.cpp" alt="" coords="2504,177,2695,203"/>
+<area shape="rect" id="node19" href="$PassTiming_8cpp.html" title="lib/Pass/PassTiming.cpp" alt="" coords="2719,177,2895,203"/>
+<area shape="rect" id="node20" href="$PassManagerOptions_8cpp.html" title="lib/Pass/PassManagerOptions.cpp" alt="" coords="2687,87,2925,114"/>
+<area shape="rect" id="node21" href="$PassRegistry_8cpp.html" title="lib/Pass/PassRegistry.cpp" alt="" coords="2949,87,3132,114"/>
+<area shape="rect" id="node22" href="$FrozenRewritePatternSet_8cpp.html" title="lib/Rewrite/FrozenRewrite\lPatternSet.cpp" alt="" coords="3157,80,3343,121"/>
+<area shape="rect" id="node23" href="$MlirOptMain_8cpp.html" title="lib/Support/MlirOptMain.cpp" alt="" coords="3368,87,3569,114"/>
+<area shape="rect" id="node24" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="3593,87,3779,114"/>
+<area shape="rect" id="node3" href="$Conversion_2Passes_8cpp.html" title="lib/CAPI/Conversion\l/Passes.cpp" alt="" coords="438,169,587,211"/>
+<area shape="rect" id="node4" href="$CAPI_2Dialect_2AsyncPasses_8cpp.html" title="lib/CAPI/Dialect/AsyncPasses.cpp" alt="" coords="612,177,848,203"/>
+<area shape="rect" id="node5" href="$CAPI_2Dialect_2GPUPasses_8cpp.html" title="lib/CAPI/Dialect/GPUPasses.cpp" alt="" coords="872,177,1097,203"/>
+<area shape="rect" id="node6" href="$CAPI_2Dialect_2LinalgPasses_8cpp.html" title="lib/CAPI/Dialect/LinalgPasses.cpp" alt="" coords="5,177,241,203"/>
+<area shape="rect" id="node8" href="$Transforms_2Passes_8cpp.html" title="lib/CAPI/Transforms\l/Passes.cpp" alt="" coords="265,169,413,211"/>
+<area shape="rect" id="node10" href="$Reducer_2Passes_8h.html" title="include/mlir/Reducer\l/Passes.h" alt="" coords="1294,169,1449,211"/>
+<area shape="rect" id="node17" href="$Pass_2Pass_8cpp.html" title="lib/Pass/Pass.cpp" alt="" coords="2349,177,2479,203"/>
+</map>

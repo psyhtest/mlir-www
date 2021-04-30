@@ -1,0 +1,31 @@
+<map id="include/mlir/Dialect/GPU/GPUDialect.h" name="include/mlir/Dialect/GPU/GPUDialect.h">
+<area shape="rect" id="node2" href="$Dialect_2GPU_2Passes_8h.html" title="include/mlir/Dialect\l/GPU/Passes.h" alt="" coords="1222,102,1371,143"/>
+<area shape="rect" id="node5" href="$GPUToLLVMConversion_8cpp.html" title="lib/Conversion/GPUCommon\l/GPUToLLVMConversion.cpp" alt="" coords="733,199,940,240"/>
+<area shape="rect" id="node6" href="$LowerGpuOpsToNVVMOps_8cpp.html" title="lib/Conversion/GPUToNVVM\l/LowerGpuOpsToNVVMOps.cpp" alt="" coords="237,199,458,240"/>
+<area shape="rect" id="node7" href="$LowerGpuOpsToROCDLOps_8cpp.html" title="lib/Conversion/GPUToROCDL\l/LowerGpuOpsToROCDLOps.cpp" alt="" coords="482,199,709,240"/>
+<area shape="rect" id="node8" href="$AllReduceLowering_8cpp.html" title="lib/Dialect/GPU/Transforms\l/AllReduceLowering.cpp" alt="" coords="964,199,1160,240"/>
+<area shape="rect" id="node9" href="$AsyncRegionRewriter_8cpp.html" title="lib/Dialect/GPU/Transforms\l/AsyncRegionRewriter.cpp" alt="" coords="2316,199,2512,240"/>
+<area shape="rect" id="node10" href="$KernelOutlining_8cpp.html" title="lib/Dialect/GPU/Transforms\l/KernelOutlining.cpp" alt="" coords="2536,199,2732,240"/>
+<area shape="rect" id="node11" href="$ParallelLoopMapper_8cpp.html" title="lib/Dialect/GPU/Transforms\l/ParallelLoopMapper.cpp" alt="" coords="2756,199,2952,240"/>
+<area shape="rect" id="node15" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="1548,109,1755,136"/>
+<area shape="rect" id="node17" href="$GPU_8cpp.html" title="lib/CAPI/Dialect/GPU.cpp" alt="" coords="1779,109,1961,136"/>
+<area shape="rect" id="node18" href="$GPUOpsLowering_8h.html" title="lib/Conversion/GPUCommon\l/GPUOpsLowering.h" alt="" coords="216,102,423,143"/>
+<area shape="rect" id="node20" href="$IndexIntrinsicsOpLowering_8h.html" title="lib/Conversion/GPUCommon\l/IndexIntrinsicsOpLowering.h" alt="" coords="730,102,941,143"/>
+<area shape="rect" id="node21" href="$OpToFuncCallLowering_8h.html" title="lib/Conversion/GPUCommon\l/OpToFuncCallLowering.h" alt="" coords="499,102,705,143"/>
+<area shape="rect" id="node22" href="$GPUToSPIRV_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/GPUToSPIRV.cpp" alt="" coords="1985,102,2184,143"/>
+<area shape="rect" id="node23" href="$GPUToSPIRVPass_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/GPUToSPIRVPass.cpp" alt="" coords="2208,102,2407,143"/>
+<area shape="rect" id="node24" href="$ConvertGPULaunchFuncToVulkanLaunchFunc_8cpp.html" title="lib/Conversion/GPUToVulkan\l/ConvertGPULaunchFuncToVulkanLaunch\lFunc.cpp" alt="" coords="2431,95,2715,151"/>
+<area shape="rect" id="node25" href="$SCFToGPU_8cpp.html" title="lib/Conversion/SCFToGPU\l/SCFToGPU.cpp" alt="" coords="2739,102,2924,143"/>
+<area shape="rect" id="node26" href="$SCFToGPUPass_8cpp.html" title="lib/Conversion/SCFToGPU\l/SCFToGPUPass.cpp" alt="" coords="2948,102,3133,143"/>
+<area shape="rect" id="node27" href="$ConvertLaunchFuncToLLVMCalls_8cpp.html" title="lib/Conversion/SPIRVToLLVM\l/ConvertLaunchFuncToLLVMCalls.cpp" alt="" coords="3158,102,3417,143"/>
+<area shape="rect" id="node28" href="$VectorToROCDL_8cpp.html" title="lib/Conversion/VectorToROCDL\l/VectorToROCDL.cpp" alt="" coords="3441,102,3659,143"/>
+<area shape="rect" id="node29" href="$GPUDialect_8cpp.html" title="lib/Dialect/GPU/IR\l/GPUDialect.cpp" alt="" coords="3684,102,3821,143"/>
+<area shape="rect" id="node30" href="$MemoryPromotion_8cpp.html" title="lib/Dialect/GPU/Transforms\l/MemoryPromotion.cpp" alt="" coords="3845,102,4041,143"/>
+<area shape="rect" id="node3" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="2094,206,2291,233"/>
+<area shape="rect" id="node4" href="$CAPI_2Dialect_2GPUPasses_8cpp.html" title="lib/CAPI/Dialect/GPUPasses.cpp" alt="" coords="1184,206,1409,233"/>
+<area shape="rect" id="node12" href="$SerializeToBlob_8cpp.html" title="lib/Dialect/GPU/Transforms\l/SerializeToBlob.cpp" alt="" coords="1433,199,1629,240"/>
+<area shape="rect" id="node13" href="$SerializeToCubin_8cpp.html" title="lib/Dialect/GPU/Transforms\l/SerializeToCubin.cpp" alt="" coords="1653,199,1849,240"/>
+<area shape="rect" id="node14" href="$SerializeToHsaco_8cpp.html" title="lib/Dialect/GPU/Transforms\l/SerializeToHsaco.cpp" alt="" coords="1873,199,2069,240"/>
+<area shape="rect" id="node16" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="2977,199,3131,240"/>
+<area shape="rect" id="node19" href="$GPUOpsLowering_8cpp.html" title="lib/Conversion/GPUCommon\l/GPUOpsLowering.cpp" alt="" coords="5,199,212,240"/>
+</map>

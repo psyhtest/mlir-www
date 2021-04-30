@@ -1,0 +1,32 @@
+<map id="lib/Dialect/SPIRV/IR/SPIRVGLSLCanonicalization.cpp" name="lib/Dialect/SPIRV/IR/SPIRVGLSLCanonicalization.cpp">
+<area shape="rect" id="node2" href="$SPIRVGLSLCanonicalization_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVGLSLCanonicalization.h" alt="" coords="454,95,686,136"/>
+<area shape="rect" id="node38" href="$SPIRVOps_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVOps.h" alt="" coords="1638,184,1777,225"/>
+<area shape="rect" id="node3" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="73,787,235,814"/>
+<area shape="rect" id="node13" href="$PatternMatch_8h.html" title="mlir/IR/PatternMatch.h" alt="" coords="487,191,653,218"/>
+<area shape="rect" id="node4" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="128,951,279,978"/>
+<area shape="rect" id="node8" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="217,869,379,896"/>
+<area shape="rect" id="node14" href="$IR_2Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="503,281,637,307"/>
+<area shape="rect" id="node23" href="$BuiltinOps_8h.html" title="mlir/IR/BuiltinOps.h" alt="" coords="1229,281,1377,307"/>
+<area shape="rect" id="node15" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="1154,541,1317,568"/>
+<area shape="rect" id="node16" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="415,698,541,725"/>
+<area shape="rect" id="node17" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="987,616,1132,643"/>
+<area shape="rect" id="node18" href="$IR_2BuiltinAttributes_8h.html" title="mlir/IR/BuiltinAttributes.h" alt="" coords="878,787,1065,814"/>
+<area shape="rect" id="node20" href="$IR_2Diagnostics_8h.html" title="mlir/IR/Diagnostics.h" alt="" coords="718,698,875,725"/>
+<area shape="rect" id="node19" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="713,869,859,896"/>
+<area shape="rect" id="node21" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="718,787,854,814"/>
+<area shape="rect" id="node24" href="$FunctionSupport_8h.html" title="mlir/IR/FunctionSupport.h" alt="" coords="817,459,1003,486"/>
+<area shape="rect" id="node28" href="$OwningOpRef_8h.html" title="mlir/IR/OwningOpRef.h" alt="" coords="1122,370,1290,397"/>
+<area shape="rect" id="node29" href="$RegionKindInterface_8h.html" title="mlir/IR/RegionKindInterface.h" alt="" coords="1077,459,1289,486"/>
+<area shape="rect" id="node30" href="$SymbolTable_8h.html" title="mlir/IR/SymbolTable.h" alt="" coords="629,459,793,486"/>
+<area shape="rect" id="node31" href="$CallInterfaces_8h.html" title="mlir/Interfaces/CallInterfaces.h" alt="" coords="604,370,827,397"/>
+<area shape="rect" id="node32" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="1314,459,1541,486"/>
+<area shape="rect" id="node33" href="$DataLayoutInterfaces_8h.html" title="mlir/Interfaces/DataLayout\lInterfaces.h" alt="" coords="901,363,1097,404"/>
+<area shape="rect" id="node34" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="1610,363,1797,404"/>
+<area shape="rect" id="node25" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="563,541,723,568"/>
+<area shape="rect" id="node26" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="336,616,455,643"/>
+<area shape="rect" id="node27" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="177,698,339,725"/>
+<area shape="rect" id="node39" href="$SPIRVOpTraits_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVOpTraits.h" alt="" coords="2144,363,2289,404"/>
+<area shape="rect" id="node40" href="$SPIRVTypes_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVTypes.h" alt="" coords="377,452,515,493"/>
+<area shape="rect" id="node46" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="1748,273,1947,315"/>
+<area shape="rect" id="node41" href="$SPIRVEnums_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVEnums.h" alt="" coords="1101,691,1239,732"/>
+</map>

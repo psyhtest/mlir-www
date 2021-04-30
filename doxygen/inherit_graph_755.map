@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1OpReducer.html" title="mlir::OpReducer" alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$classmlir_1_1Reducer.html" title="Reducer is a helper class to remove potential uninteresting operations from module. " alt="" coords="180,5,367,32"/>
+</map>

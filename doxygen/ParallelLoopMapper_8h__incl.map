@@ -1,0 +1,12 @@
+<map id="include/mlir/Dialect/GPU/ParallelLoopMapper.h" name="include/mlir/Dialect/GPU/ParallelLoopMapper.h">
+<area shape="rect" id="node2" href="$IR_2BuiltinAttributes_8h.html" title="mlir/IR/BuiltinAttributes.h" alt="" coords="1135,102,1322,129"/>
+<area shape="rect" id="node6" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1221,565,1372,591"/>
+<area shape="rect" id="node3" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="734,184,880,211"/>
+<area shape="rect" id="node4" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="894,259,1082,285"/>
+<area shape="rect" id="node5" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="1252,408,1415,435"/>
+<area shape="rect" id="node15" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="719,333,951,360"/>
+<area shape="rect" id="node10" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="1096,483,1259,509"/>
+<area shape="rect" id="node16" href="$InterfaceSupport_8h.html" title="mlir/Support/InterfaceSupport.h" alt="" coords="695,408,922,435"/>
+<area shape="rect" id="node19" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="24,483,228,509"/>
+<area shape="rect" id="node21" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="375,408,594,435"/>
+</map>

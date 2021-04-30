@@ -1,0 +1,5 @@
+<map id="include/mlir/Reducer/PassDetail.h" name="include/mlir/Reducer/PassDetail.h">
+<area shape="rect" id="node2" href="$OptReductionPass_8h.html" title="include/mlir/Reducer\l/OptReductionPass.h" alt="" coords="5,184,160,225"/>
+<area shape="rect" id="node4" href="$ReductionTreePass_8h.html" title="include/mlir/Reducer\l/ReductionTreePass.h" alt="" coords="118,95,277,136"/>
+<area shape="rect" id="node3" href="$Reducer_2Passes_8h.html" title="include/mlir/Reducer\l/Passes.h" alt="" coords="63,273,217,315"/>
+</map>
